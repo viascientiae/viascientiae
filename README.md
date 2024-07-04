@@ -1,3 +1,4 @@
+# About me
 - 👋 Hi, I’m @viascientiae
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full-stack Web Development through The Odin Project (https://www.theodinproject.com/)
